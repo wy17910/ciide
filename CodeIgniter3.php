@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Add you custom models here
- * ---------------------- Custome modules ----------------------
+ * ---------------------- Custom modules ----------------------
  * You can add you custom libraries here! 
  * Like:
  * @property Test               		$test
