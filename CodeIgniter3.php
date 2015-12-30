@@ -47,6 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @property CI_Xmlrpc                  $xmlrpc
  * @property CI_Xmlrpcs                 $xmlrpcs
  * @property CI_Zip                     $zip
+ * @property CI_DB_forge        	$dbforge
  * @property CI_DB_query_builder        $db
  */
 class PhpStorm_Helper 
