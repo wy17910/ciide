@@ -1,4 +1,4 @@
-# CodeIgniter-PhpStorm-Helper
+# CI-PhpStorm-Helper
 让PhpStorm支持CodeIgniter的代码提示和自动完成。 
 
 使用方法:  
